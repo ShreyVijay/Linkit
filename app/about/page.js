@@ -7,7 +7,7 @@ const About = () => {
   <p className="pl-5">
     Your go-to URL Shortener. The most straightforward URL shortener — no
     sign-ups, no ads, no hassle. Just paste your long link and get a short
-    one instantly. It&apos;s fast, simple, and free. Whether you&apos;re sharing for
+    one instantly. Its fast, simple, and free. Whether you are sharing for
     work, social media, or anything in between, we make link shortening
     effortless.
   </p>
