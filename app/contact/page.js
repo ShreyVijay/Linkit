@@ -7,11 +7,11 @@ const contact = () => {
       <p className="text-3xl font-bold ">Contact Us</p>
       <div className="pl-5">
         <p>Have questions, feedback, or suggestions?</p>
-        <p>We&apos;d love to hear from you!</p>
+        <p>We appreciate your insights!</p>
         <p>📧 Email: support@yoururlshortener.com</p>
         <p>🌐 Website: www.yoururlshortener.com</p>
         <p>🐞 Report a Bug: report@yoururlshortener.com</p>
-        <p>We&apos;re here to help — no bots, no delays, just real support.</p>
+        <p>We are here to help.</p>
       </div>
     </div>
   );
